@@ -1,0 +1,630 @@
+[
+  {
+    "id": "abigail",
+    "name": "Abigail",
+    "description": "An adventurous and energetic girl who loves to explore the caves.",
+    "birthday": "Fall 13",
+    "loves": ["Amethyst", "Blackberry Cobbler", "Pufferfish", "Spicy Eel", "Pumpkin"],
+    "likes": ["Quartz", "Ancient Sword", "Basilisk Paw", "Bone Flute"],
+    "dislikes": ["Clay", "Holly"],
+    "address": "7 Mountain Road, Pelican Town",
+    "schedule": {
+      "rain": "General Store (Home) all day.",
+      "default": "9:00 AM: General Store. 1:00 PM: Bridge near JojaMart. 4:30 PM: Home (Video Games).",
+      "tuesday": "1:00 PM: Caroline's Exercise Class (General Store)."
+    }
+  },
+  {
+    "id": "alex",
+    "name": "Alex",
+    "description": "He's a confident, athletic young man with a love for sports.",
+    "birthday": "Summer 13",
+    "loves": ["Complete Breakfast", "Salmon Dinner"],
+    "likes": ["Salmonberry", "Egg", "Milk", "Parsnip"],
+    "dislikes": ["Quartz", "Holly", "Wild Horseradish", "Winter Root"],
+    "address": "1 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays home all day.",
+      "default": "8:00 AM: Leaves house. 1:00 PM: Weights room / Dog pen."
+    }
+  },
+  {
+    "id": "birdie",
+    "name": "Birdie",
+    "description": "An old sailor woman living on Ginger Island who is mourning her late husband.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Ginger Island",
+    "schedule": {
+      "default": "Always at her hut on Ginger Island West."
+    }
+  },
+  {
+    "id": "bouncer",
+    "name": "Bouncer",
+    "description": "A silent guard who blocks access to the casino until you earn his trust.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Stardrop Saloon",
+    "schedule": {
+      "default": "Stands guard at the back of the Oasis store."
+    }
+  },
+  {
+    "id": "caroline",
+    "name": "Caroline",
+    "description": "A kind and gentle woman who runs the local general store with her husband Pierre.",
+    "birthday": "Winter 7",
+    "loves": ["Green Tea", "Summer Spangle", "Tropical Curry", "Fish Taco"],
+    "likes": ["Daffodil", "Tea Leaves"],
+    "dislikes": ["All Artisan Goods"],
+    "address": "2 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays inside the General Store.",
+      "default": "8:00 AM: General Store kitchen. 1:00 PM: Town Square (Tuesday: Exercise)."
+    }
+  },
+  {
+    "id": "clint",
+    "name": "Clint",
+    "description": "The local blacksmith who is shy and reserved but has a good heart.",
+    "birthday": "Winter 26",
+    "loves": ["Amethyst", "Artichoke Dip", "Emerald", "Gold Bar", "Iridium Bar", "Omni Geode"],
+    "likes": ["Copper Bar", "Iron Bar"],
+    "dislikes": ["Wild Horseradish"],
+    "address": "Blacksmith, Pelican Town",
+    "schedule": {
+      "rain": "Working at the counter.",
+      "default": "9:00 AM - 4:00 PM: Blacksmith shop counter. 8:00 PM: Saloon."
+    }
+  },
+  {
+    "id": "demetrius",
+    "name": "Demetrius",
+    "description": "A scientist and father of Maru and Sebastian who studies the local wildlife.",
+    "birthday": "Summer 19",
+    "loves": ["Bean Hotpot", "Ice Cream", "Rice Pudding", "Strawberry"],
+    "likes": ["Salmonberry", "Purple Mushroom", "Egg"],
+    "dislikes": ["Fish"],
+    "address": "Carpenter's Shop, Pelican Town",
+    "schedule": {
+      "rain": "Stays indoors at the lab.",
+      "default": "Lab or By the Fountain (Summer). Saloon on Friday nights."
+    }
+  },
+  {
+    "id": "dwarf",
+    "name": "Dwarf",
+    "description": "A mysterious creature that lives in the caves and sells rare items.",
+    "birthday": "Summer 22",
+    "loves": ["Amethyst", "Cave Carrot", "Omni Geode", "Lemon Stone"],
+    "likes": ["Dwarf Scroll I", "Dwarf Gadget"],
+    "dislikes": ["Milk"],
+    "address": "The Mines, Pelican Town",
+    "schedule": {
+      "default": "Always in the Mines entrance (east side behind rock)."
+    }
+  },
+  {
+    "id": "elliott",
+    "name": "Elliott",
+    "description": "A sensitive poet who dreams of one day writing a magnificent novel.",
+    "birthday": "Fall 5",
+    "loves": ["Crab Cakes", "Duck Feather", "Lobster", "Pomegranate", "Tom Kha Soup"],
+    "likes": ["Octopus", "Squid"],
+    "dislikes": ["Quartz", "Clay", "Holly", "Winter Root"],
+    "address": "2 Beach Road, Pelican Town",
+    "schedule": {
+      "rain": "Stays inside his cabin.",
+      "default": "12:00 PM: Beach (South of cabin) or Bridge to Leah's cottage."
+    }
+  },
+  {
+    "id": "emily",
+    "name": "Emily",
+    "description": "A free spirit who enjoys expressing herself through art and fashion.",
+    "birthday": "Spring 27",
+    "loves": ["Amethyst", "Aquamarine", "Cloth", "Emerald", "Wool", "Jade", "Ruby"],
+    "likes": ["Daffodil", "Quartz"],
+    "dislikes": ["Fish Tacos", "Salmon Dinner"],
+    "address": "8 Emily's House, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "4:00 PM: Saloon (Work). Tuesday: Exercise class."
+    }
+  },
+  {
+    "id": "evelyn",
+    "name": "Evelyn",
+    "description": "A sweet elderly woman who loves to bake and tends to the town's flowers.",
+    "birthday": "Winter 20",
+    "loves": ["Beet", "Chocolate Cake", "Stuffing", "Diamond", "Fairy Rose"],
+    "likes": ["Milk", "Daffodil"],
+    "dislikes": ["Fish"],
+    "address": "1 River Road, Pelican Town",
+    "schedule": {
+      "rain": "Stays inside cooking/baking.",
+      "default": "Tends to town gardens in the morning. Home by evening."
+    }
+  },
+  {
+    "id": "fizz",
+    "name": "Fizz",
+    "description": "A mysterious character with unknown intentions and a penchant for alchemy.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Secret Woods",
+    "schedule": {
+      "default": "Found in the Mushroom Cave (Joja Perfection route)."
+    }
+  },
+  {
+    "id": "george",
+    "name": "George",
+    "description": "An elderly man who is grumpy but has a soft spot for his wife Evelyn.",
+    "birthday": "Fall 24",
+    "loves": ["Leek", "Fried Mushroom"],
+    "likes": ["Daffodil"],
+    "dislikes": ["Dandelion"],
+    "address": "1 River Road, Pelican Town",
+    "schedule": {
+      "rain": "Stays in living room.",
+      "default": "Usually in living room watching TV. Sundays: Statue of Yoba."
+    }
+  },
+  {
+    "id": "gil",
+    "name": "Gil",
+    "description": "An old adventurer who spends his days at the Adventurer's Guild.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Adventurer's Guild",
+    "schedule": {
+      "default": "Always in his rocking chair at the Adventurer's Guild."
+    }
+  },
+  {
+    "id": "governor",
+    "name": "Governor",
+    "description": "The governor who visits Pelican Town every year for the Luau festival.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Unknown",
+    "schedule": {
+      "default": "Only appears during the Luau (Summer 11)."
+    }
+  },
+  {
+    "id": "grandpa",
+    "name": "Grandpa",
+    "description": "The spirit of your grandfather who evaluates your progress in Stardew Valley.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Your Farm",
+    "schedule": {
+      "default": "Appears at the shrine on Year 3, Day 1."
+    }
+  },
+  {
+    "id": "gunther",
+    "name": "Gunther",
+    "description": "The curator of the Pelican Town museum, in charge of collecting and displaying artifacts and minerals.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Museum",
+    "schedule": {
+      "default": "Always behind the counter at the Museum."
+    }
+  },
+  {
+    "id": "gus",
+    "name": "Gus",
+    "description": "The owner of the Stardrop Saloon who is always ready to lend a helping hand.",
+    "birthday": "Summer 8",
+    "loves": ["Diamond", "Escargot", "Orange", "Fish Taco"],
+    "likes": ["Daffodil"],
+    "dislikes": ["Coleslaw"],
+    "address": "Stardrop Saloon, Pelican Town",
+    "schedule": {
+      "rain": "Working at Saloon.",
+      "default": "12:00 PM - 12:00 AM: Working at Stardrop Saloon."
+    }
+  },
+  {
+    "id": "haley",
+    "name": "Haley",
+    "description": "A fashionable and sometimes snobby young woman who loves photography.",
+    "birthday": "Spring 14",
+    "loves": ["Coconut", "Fruit Salad", "Pink Cake", "Sunflower"],
+    "likes": ["Daffodil"],
+    "dislikes": ["Quartz", "Clay", "Holly", "Winter Root", "Prismatic Shard"],
+    "address": "9 2 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "11:00 AM: Fountain (West of Comm. Center). 4:30 PM: Home."
+    }
+  },
+  {
+    "id": "harvey",
+    "name": "Harvey",
+    "description": "A dedicated and caring doctor who enjoys helping others.",
+    "birthday": "Winter 14",
+    "loves": ["Coffee", "Pickles", "Super Meal", "Truffle Oil", "Wine"],
+    "likes": ["Dandelion", "Spring Onion", "Duck Feather"],
+    "dislikes": ["Coral", "Nautilus Shell"],
+    "address": "3 Harvey's Clinic, Pelican Town",
+    "schedule": {
+      "rain": "Stays in Clinic/Room.",
+      "default": "Clinic hours (9am-3pm). Walks in park/town in evenings."
+    }
+  },
+  {
+    "id": "henchman",
+    "name": "Henchman",
+    "description": "A servant of the Witch, guarding the Witch's Hut.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Witch's Hut",
+    "schedule": {
+      "default": "Guards the Witch's Hut (Blocks path until quest complete)."
+    }
+  },
+  {
+    "id": "jas",
+    "name": "Jas",
+    "description": "A young girl who is shy but loves animals and playing with her friends.",
+    "birthday": "Summer 4",
+    "loves": ["Fairy Rose", "Pink Cake", "Plum Pudding"],
+    "likes": ["Coconut", "Daffodil"],
+    "dislikes": ["Cranberries"],
+    "address": "Marnie's Ranch, Pelican Town",
+    "schedule": {
+      "rain": "Stays inside Marnie's Ranch.",
+      "default": "Jump rope by the big tree (Forest) or Museum (Tutoring)."
+    }
+  },
+  {
+    "id": "jodi",
+    "name": "Jodi",
+    "description": "A caring mother who looks after her two sons, Sam and Vincent.",
+    "birthday": "Fall 11",
+    "loves": ["Chocolate Cake", "Crispy Bass", "Diamond", "Eggplant Parmesan", "Pancakes"],
+    "likes": ["Milk", "Egg"],
+    "dislikes": ["Dandelion"],
+    "address": "1 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays home cleaning.",
+      "default": "Town Square (shopping), Pierre's (exercise), or home kitchen."
+    }
+  },
+  {
+    "id": "kent",
+    "name": "Kent",
+    "description": "A soldier who has returned home from war and is trying to adjust to civilian life.",
+    "birthday": "Spring 4",
+    "loves": ["Fiddlehead Risotto", "Roasted Hazelnuts"],
+    "likes": ["Daffodil", "Egg"],
+    "dislikes": ["Sashimi", "Tortilla"],
+    "address": "1 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "Stands near big tree (Forest) or by river (Town)."
+    }
+  },
+  {
+    "id": "krobus",
+    "name": "Krobus",
+    "description": "A friendly shadow creature who lives in the sewers and sells rare items.",
+    "birthday": "Winter 1",
+    "loves": ["Pumpkin", "Void Egg", "Void Mayonnaise", "Wild Horseradish"],
+    "likes": ["Gold Bar", "Quartz"],
+    "dislikes": ["Daffodil"],
+    "address": "The Sewers, Pelican Town",
+    "schedule": {
+      "default": "Always in the Sewers."
+    }
+  },
+  {
+    "id": "leah",
+    "name": "Leah",
+    "description": "A talented artist who finds inspiration in the beauty of nature.",
+    "birthday": "Winter 23",
+    "loves": ["Goat Cheese", "Poppyseed Muffin", "Salad", "Stir Fry", "Truffle", "Wine"],
+    "likes": ["Dandelion", "Driftwood", "Spring Onion"],
+    "dislikes": ["Pizza", "Bread"],
+    "address": "10 Leah's Cottage, Pelican Town",
+    "schedule": {
+      "rain": "Stays inside cottage sculpting.",
+      "default": "12:00 PM: Sketching by river/lake. 6:00 PM: Saloon."
+    }
+  },
+  {
+    "id": "leo",
+    "name": "Leo",
+    "description": "A young boy who was raised on Ginger Island and loves the wildlife there.",
+    "birthday": "Summer 26",
+    "loves": ["Duck Feather", "Mango", "Ostrich Egg", "Poi"],
+    "likes": ["Dragon Tooth", "Nautilus Shell"],
+    "dislikes": ["Squid", "Beer"],
+    "address": "Ginger Island",
+    "schedule": {
+      "default": "Ginger Island (Hut/Parrots). Moves to Treehouse if befriended."
+    }
+  },
+  {
+    "id": "lewis",
+    "name": "Lewis",
+    "description": "The mayor of Pelican Town who is kind-hearted and cares deeply for the town.",
+    "birthday": "Spring 7",
+    "loves": ["Autumn's Bounty", "Green Tea", "Hot Pepper", "Glazed Yams"],
+    "likes": ["Coconut", "Cactus Fruit"],
+    "dislikes": ["Maki Roll"],
+    "address": "Mayor's Manor, Pelican Town",
+    "schedule": {
+      "rain": "Stays in manor or visits shops.",
+      "default": "Visits local businesses (Pierre's, Blacksmith, Marnie's)."
+    }
+  },
+  {
+    "id": "linus",
+    "name": "Linus",
+    "description": "A kind man who lives in a tent and prefers to live off the land.",
+    "birthday": "Winter 3",
+    "loves": ["Blueberry Tart", "Cactus Fruit", "Coconut", "Yam"],
+    "likes": ["Daffodil", "Milk"],
+    "dislikes": ["Carp"],
+    "address": "Tent, Pelican Town",
+    "schedule": {
+      "rain": "Stays in tent.",
+      "default": "Near tent, or by the Lake/Spa area."
+    }
+  },
+  {
+    "id": "marlon",
+    "name": "Marlon",
+    "description": "A grizzled, no-nonsense adventurer who runs the Adventurer's Guild.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Adventurer's Guild",
+    "schedule": {
+      "default": "Inside Adventurer's Guild (Counter)."
+    }
+  },
+  {
+    "id": "marnie",
+    "name": "Marnie",
+    "description": "The owner of Marnie's Ranch who cares for a variety of animals.",
+    "birthday": "Fall 18",
+    "loves": ["Diamond", "Pink Cake", "Farmer's Lunch", "Pumpkin Pie"],
+    "likes": ["Milk", "Quartz"],
+    "dislikes": ["Clay"],
+    "address": "Marnie's Ranch, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "Behind counter (9-4), Kitchen. Mon/Tue: Shopping at Pierre's."
+    }
+  },
+  {
+    "id": "maru",
+    "name": "Maru",
+    "description": "A brilliant scientist who is fascinated by technology and space exploration.",
+    "birthday": "Summer 10",
+    "loves": ["Battery Pack", "Diamond", "Gold Bar", "Iridium Bar", "Strawberry", "Cauliflower"],
+    "likes": ["Copper Bar", "Iron Bar", "Oak Resin", "Pine Tar", "Quartz"],
+    "dislikes": ["Honey", "Pickles"],
+    "address": "11 Carpenter's Shop, Pelican Town",
+    "schedule": {
+      "rain": "Stays in lab.",
+      "default": "Lab. Tues/Thurs: Clinic (Work). Sat: Town bench."
+    }
+  },
+  {
+    "id": "morris",
+    "name": "Morris",
+    "description": "The manager of JojaMart, focused on sales and expanding the Joja corporation.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "JojaMart",
+    "schedule": {
+      "default": "Inside JojaMart (until Community Center completed)."
+    }
+  },
+  {
+    "id": "mr_qi",
+    "name": "Mr. Qi",
+    "description": "A mysterious figure who provides challenges and quests to test your skills.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Calico Desert Casino",
+    "schedule": {
+      "default": "Casino (Desert) or Walnut Room (Ginger Island)."
+    }
+  },
+  {
+    "id": "pam",
+    "name": "Pam",
+    "description": "A tough, no-nonsense woman who drives the bus and loves to fish.",
+    "birthday": "Spring 18",
+    "loves": ["Beer", "Cactus Fruit", "Mead", "Pale Ale", "Parsnip"],
+    "likes": ["Milk", "Daffodil"],
+    "dislikes": ["Squid", "Octopus"],
+    "address": "Trailer, Pelican Town",
+    "schedule": {
+      "rain": "Stays in Trailer until 4PM -> Saloon.",
+      "default": "8:30 AM - 5:00 PM: Bus Stop. Evening: Saloon."
+    }
+  },
+  {
+    "id": "penny",
+    "name": "Penny",
+    "description": "A kind-hearted and nurturing teacher who loves to help others learn.",
+    "birthday": "Fall 2",
+    "loves": ["Melon", "Poppy", "Red Plate", "Roots Platter", "Diamond", "Emerald"],
+    "likes": ["Dandelion", "Leek", "Milk"],
+    "dislikes": ["Beer", "Pale Ale", "Rabbit's Foot"],
+    "address": "12 Trailer, Pelican Town",
+    "schedule": {
+      "rain": "Inside Trailer.",
+      "default": "Museum (Tutoring Jas/Vincent) or Reading near Graveyard."
+    }
+  },
+  {
+    "id": "pierre",
+    "name": "Pierre",
+    "description": "The owner of the General Store and a hardworking businessman.",
+    "birthday": "Spring 26",
+    "loves": ["Fried Calamari"],
+    "likes": ["Daffodil", "Egg", "Milk"],
+    "dislikes": ["Corn", "Garlic"],
+    "address": "General Store, Pelican Town",
+    "schedule": {
+      "rain": "Working.",
+      "default": "9:00 AM - 5:00 PM: Store Counter. Evening: Kitchen. Fri: Saloon."
+    }
+  },
+  {
+    "id": "professor_snail",
+    "name": "Professor Snail",
+    "description": "A researcher who studies the wildlife and fossils of Ginger Island.",
+    "birthday": "Unknown",
+    "loves": ["None"],
+    "likes": ["None"],
+    "dislikes": ["None"],
+    "address": "Ginger Island",
+    "schedule": {
+      "default": "Island Field Office (after rescue)."
+    }
+  },
+  {
+    "id": "robin",
+    "name": "Robin",
+    "description": "The local carpenter who is always busy working on new projects.",
+    "birthday": "Fall 21",
+    "loves": ["Goat Cheese", "Peach", "Spaghetti"],
+    "likes": ["Hardwood", "Quartz"],
+    "dislikes": ["Wild Horseradish"],
+    "address": "Carpenter's Shop, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "9:00 AM - 5:00 PM: Carpenter Shop. Tues: Exercise. Fri: Saloon."
+    }
+  },
+  {
+    "id": "sam",
+    "name": "Sam",
+    "description": "A friendly and outgoing musician who loves to play guitar.",
+    "birthday": "Summer 17",
+    "loves": ["Cactus Fruit", "Maple Bar", "Pizza", "Tigerseye"],
+    "likes": ["Joja Cola", "Egg"],
+    "dislikes": ["Coal", "Mayonnaise"],
+    "address": "4 Cindersap Forest, Pelican Town",
+    "schedule": {
+      "rain": "Stays home playing guitar.",
+      "default": "Work (Joja/Museum), Skateboarding outside, or Saloon (Fri)."
+    }
+  },
+  {
+    "id": "sandy",
+    "name": "Sandy",
+    "description": "The owner of the Oasis shop in the desert.",
+    "birthday": "Fall 15",
+    "loves": ["Crocus", "Sweet Pea", "Daffodil"],
+    "likes": ["Goat Milk", "Quartz", "Wool"],
+    "dislikes": ["All Fish"],
+    "address": "Oasis, Calico Desert",
+    "schedule": {
+      "default": "Always behind the counter at Oasis (Desert)."
+    }
+  },
+  {
+    "id": "sebastian",
+    "name": "Sebastian",
+    "description": "He's a mysterious loner who spends most of his time programming.",
+    "birthday": "Winter 10",
+    "loves": ["Frozen Tear", "Obsidian", "Pumpkin Soup", "Sashimi", "Void Egg"],
+    "likes": ["Quartz", "Flounder"],
+    "dislikes": ["Clay", "Omelet", "Farmer's Lunch"],
+    "address": "5 Mountain Road, Pelican Town",
+    "schedule": {
+      "rain": "Beach (Pier) from 10am to 1pm (if unlocked), otherwise Home.",
+      "default": "3:00 PM: Kitchen. 6:30 PM: Lake (Smoking). Friday: Saloon."
+    }
+  },
+  {
+    "id": "shane",
+    "name": "Shane",
+    "description": "A troubled young man struggling with his past, trying to find his place in the world.",
+    "birthday": "Spring 20",
+    "loves": ["Beer", "Hot Pepper", "Pepper Poppers", "Pizza"],
+    "likes": ["Egg", "Fruit"],
+    "dislikes": ["Pickles", "Quartz"],
+    "address": "6 Marnie's Ranch, Pelican Town",
+    "schedule": {
+      "rain": "Saloon (All day) or Home.",
+      "default": "8am: JojaMart (Work). 5pm: Saloon. Sun: Home."
+    }
+  },
+  {
+    "id": "vincent",
+    "name": "Vincent",
+    "description": "A young boy who loves to play and is always full of energy.",
+    "birthday": "Spring 10",
+    "loves": ["Cranberry Candy", "Snail", "Grapes", "Pink Cake"],
+    "likes": ["Coconut", "Daffodil"],
+    "dislikes": ["Clay"],
+    "address": "1 Willow Lane, Pelican Town",
+    "schedule": {
+      "rain": "Stays home.",
+      "default": "Playing in house, or Museum (Tutoring) with Jas/Penny."
+    }
+  },
+  {
+    "id": "willy",
+    "name": "Willy",
+    "description": "The local fisherman who has a deep love for the sea and everything in it.",
+    "birthday": "Summer 24",
+    "loves": ["Catfish", "Diamond", "Iridium Bar", "Mead", "Octopus", "Pumpkin", "Sturgeon"],
+    "likes": ["Gold Bar", "Quartz", "Tiger Trout"],
+    "dislikes": ["Amaranth"],
+    "address": "Fish Shop, Pelican Town",
+    "schedule": {
+      "rain": "Fish Shop (Work) or Saloon (Night).",
+      "default": "6am: Fishing at Beach. 9am: Shop Counter. 5pm: Fishing again."
+    }
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "description": "A mysterious figure who lives in the tower and studies magic.",
+    "birthday": "Winter 17",
+    "loves": ["Purple Mushroom", "Solar Essence", "Super Cucumber", "Void Essence"],
+    "likes": ["Quartz", "Thunder Egg"],
+    "dislikes": ["Slime"],
+    "address": "Wizard's Tower, Pelican Town",
+    "schedule": {
+      "default": "Always inside the Wizard's Tower."
+    }
+  }
+]
