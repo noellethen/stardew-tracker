@@ -1,16 +1,31 @@
-# React + Vite
+# 🐔 Pelican Town Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cozy, interactive web application designed to help **Stardew Valley** players track villager schedules, gift preferences, and birthdays without breaking immersion. Built with **React** and styled to mimic the in-game UI.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  * **🔍 Live Search:** Instantly filter villagers by name.
+  * **📍 Schedule Tracking:** View villager locations based on weather (Rainy/Sunny) and days of the week.
+  * **🎁 Gift Guide:**
+      * Detailed lists of **Loves** (💖), **Likes** (👍), and **Dislikes** (❌).
+      * Visual icons for every item using the Stardew Wiki API.
+      * Dedicated **"Universals"** mode for quick reference of universal loves/hates.
+  * **🎨 Immersive Game UI:**
+      * Custom **Pixel Cursor** (Pointer & Hand animations).
+      * Authentic "Dialogue Box" aesthetic with **VT323** pixel font.
+      * Stardew-themed scrollbars and buttons.
+      * Interactive **Sound Effects** (Click & Background Music) with a toggle switch.
+  * **📱 Responsive Design:** Flexbox layout that adapts to the screen size (locked viewport, no window scrolling).
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  * **Framework:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+  * **Styling:** Pure CSS (Custom Scrollbars, Flexbox, Pixel Art Rendering)
+  * **Data:** JSON-based local database (extracted from game files/wiki)
+  * **Assets:** Dynamic hotlinking to [Stardew Valley Wiki](https://stardewvalleywiki.com/) for item icons.
 
-## Expanding the ESLint configuration
+## Credits
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  * **Game Assets & Design Inspiration:** Stardew Valley by [ConcernedApe](https://twitter.com/ConcernedApe).
+  * **Data Sources:** Stardew Valley Wiki & Community Data Extracts.
+  * **Font:** [VT323](https://fonts.google.com/specimen/VT323) from Google Fonts.
